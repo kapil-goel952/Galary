@@ -98,10 +98,7 @@ function App() {
   )
 }
 
-export default 
+export default App
 
 
-
-
-
-// this is the main file of galary
+// git statu
