@@ -98,4 +98,10 @@ function App() {
   )
 }
 
-export default App
+export default 
+
+
+
+
+
+// this is the main file of galary
